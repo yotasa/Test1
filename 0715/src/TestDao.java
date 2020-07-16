@@ -37,6 +37,7 @@ public class TestDao extends BaseDao{
 		 * t1.update(dyx);
 		 */
 		 //删除学生信息
-		t1.delById("123456");
+		//t1.delById("123456");
+		t1.delById("456789");
 	}
 }
